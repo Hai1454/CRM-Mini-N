@@ -15,4 +15,4 @@ Launcher se tu:
 Tai khoan admin:
 Day la tai khoan demo.
 Email: admin@crm.local
-Mat khau: xem trong file server/prisma/seed.js
+Mat khau: 123456
